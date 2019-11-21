@@ -1,4 +1,5 @@
 #! /usr/bin/awk -f
+print "have fun and nice day"
 
 #----------------board_basic_structure-------------------
 function board() {
